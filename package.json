@@ -1,0 +1,19 @@
+{
+  "name": "native_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinuka-Dilshan/Native_Nodejs.git"
+  },
+  "author": "dinuka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dinuka-Dilshan/Native_Nodejs/issues"
+  },
+  "homepage": "https://github.com/Dinuka-Dilshan/Native_Nodejs#readme"
+}
