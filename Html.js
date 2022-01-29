@@ -9,6 +9,7 @@ const form = `
             <form method="POST" action='/message'>
                 <label>Enter Message</label>
                 <input type='text' name="message"/>
+                <input type='text' name="message2"/>
                 <button type='submit'>Send</button>
             </form>
         
