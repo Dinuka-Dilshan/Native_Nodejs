@@ -14,6 +14,7 @@ const BodyParser = (req) => {
             data = data.split('=');
             body[data[0]] = data[1];
       });
+      req.body = {...body};
       resolve(body);
     });
 
